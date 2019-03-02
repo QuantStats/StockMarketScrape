@@ -29,7 +29,7 @@ For each stock, the following financial data are stored:
 * ROE: return on equity in percentage.
 * NTA: net tangible assets in MYR.
 * Vol: average volume in a year in unit stocks.
-* Cap: company market capitalization in MYR, the post-text m and b represet million and billion respectively.
+* Cap: company market capitalization in MYR, the post-text _m_ and _b_ represent million and billion respectively.
 
 \* Note that the abbreviation MYR is Malaysian Ringgt. A cent in the context above is a unit of MYR divided by 100.
 
