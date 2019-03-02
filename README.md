@@ -16,7 +16,7 @@ The automated processes of the script can be briefly summarized as follows:
 
 For each stock, the following financial data are stored:
 
-* Name: company stock name and code.
+* Name: company name and KLSE stock code.
 * Divy: dividend yield in percentage.
 * Div: total dividend over the past 12 months in cents.
 * Price: last closing price of the stock in MYR.
