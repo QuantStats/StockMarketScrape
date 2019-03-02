@@ -12,7 +12,7 @@ The automated processes of the script can be briefly summarized as follows:
 
 3. After all the stock listings are retrieved, the script navigates to the individual link of each stock. The script then scrapes and stores financial data from each stock listing. Repeat this process until every stock is scraped on the stock listings.
 
-4. Save the stored financial data.
+4. Save the stored financial data for each stock. For a sample of the stored financial data, see the file `klse_prices.csv`. 
 
 For each stock, the following financial data are stored:
 
@@ -32,6 +32,10 @@ For each stock, the following financial data are stored:
 * Cap: market capitalization in MYR, the post-text _m_ and _b_ represent million and billion respectively.
 
 \* Note that the abbreviation MYR is Malaysian Ringgt. A cent in the context above is a unit of MYR divided by 100.
+
+The print output after a run of the script is shown below:
+
+![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/StockTable.png)
 
 
 
