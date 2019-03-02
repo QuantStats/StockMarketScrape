@@ -1,4 +1,4 @@
-The script `PythonFinanceScrape.py` scrapes financial market data from all stock listings on KLSE (Kuala Lumpur Stock Exchange).
+The script `FinanceScrape.py` scrapes financial market data from all stock listings on KLSE (Kuala Lumpur Stock Exchange).
 
 A cross-sectional stock market data is gathered and stored after the script finishes its run. The data is stored in various file formats that can be read by a spreadsheet program. A possible application for an investor is to sort the stock by a variable of interest, say dividend yield to find the highest dividend-yielding stocks.
 
