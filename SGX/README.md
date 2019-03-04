@@ -19,15 +19,13 @@ For each stock, the following financial data are stored:
 * Name: company name and KLSE stock code.
 * Divy: dividend yield in percentage.
 * Div: total dividend over the past 12 months in cents.
-* Price: last closing price of the stock in MYR.
-* Low7: weekly low of the stock price in MYR.
-* High7: weekly high of the stock price in MYR.
-* Low52: yearly low of the stock price in MYR.
-* High52: yearly high of the stock price in MYR.
+* Price: last closing price of the stock in SGD.
+* Low7: weekly low of the stock price in SGD.
+* High7: weekly high of the stock price in SGD.
+* Low52: yearly low of the stock price in SGD.
+* High52: yearly high of the stock price in SGD.
 * EPS: earnings per share of the stock in cents.
 * PE: price-earning-ratio of the stock (unitless measure).
-* ROE: return on equity in percentage.
-* NTA: net tangible assets in MYR.
 * Vol: average volume in a year in unit stocks.
 * Cap: market capitalization in MYR, the post-text _m_ and _b_ represent million and billion respectively.
 
