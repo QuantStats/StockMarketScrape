@@ -6,7 +6,7 @@ The print output after a run of the script is shown as follows,
 
 ![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/SGX/SGXStockTable.png)
 
-The second step loads the stored data from the first step, then performs the rest of the scrapping process to collect the relevant financial info. The first step is performed by the script 'SGXScrape.py'.
+The second step loads the stored data from the first step, then performs the rest of the scrapping process to collect the relevant financial info. The second step is performed by the script 'SGXScrape.py'.
 
 A cross-sectional stock market data is gathered and stored after the script in the second step finishes its run. The data is stored in various file formats that can be read by a spreadsheet program. A possible application for an investor is to sort the stock by a variable of interest, say dividend yield to find the highest dividend-yielding stocks.
 
