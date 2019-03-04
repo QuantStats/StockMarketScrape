@@ -4,7 +4,7 @@ The first step is a scrape to collect and store all SGX-listed company names alo
 
 The print output after a run of the script is shown as follows,
 
-![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/SGX/SGXStockTable.png)
+![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/SGX/Images/SGXStockTable.png)
 
 The second step loads the stored data from the first step, then performs the rest of the scrapping process to collect the relevant financial info. The second step is performed by the script 'SGXScrape.py'.
 
@@ -37,4 +37,4 @@ For each stock, the following financial data are stored:
 
 The print output after a run of the script is shown below:
 
-![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/SGX/SGXStockScrape.png)
+![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/SGX/Images/SGXStockScrape.png)
