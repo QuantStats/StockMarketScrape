@@ -20,15 +20,15 @@ The automated processes of the script can be briefly summarized as follows:
 
 For each stock, the following financial data are stored:
 
-* Name: company name and KLSE stock code.
+* Name: company name and SGX stock code.
 * Divy: dividend yield in percentage.
-* Div: total dividend over the past 12 months in cents.
+* Div: total dividend over the past 12 months in SGD.
 * Price: last closing price of the stock in SGD.
 * Low1: daily low of the stock price in SGD.
 * High1: daily high of the stock price in SGD.
 * Low52: yearly low of the stock price in SGD.
 * High52: yearly high of the stock price in SGD.
-* EPS: earnings per share of the stock in cents.
+* EPS: earnings per share of the stock in SGD.
 * PE: price-earning-ratio of the stock (unitless measure).
 * Vol: average volume in a year in unit stocks.
 * Cap: market capitalization in MYR, the post-text _M_ and _B_ represent million and billion respectively.
