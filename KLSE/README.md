@@ -6,7 +6,7 @@ The script can be scheduled to run daily using _Task Scheduler_ in Windows or _C
 
 The automated processes of the script can be briefly summarized as follows:
 
-1. Navigate to the webpage (inspect the script for details of the webpage) where financial market data are stored for each stock listing on KLSE.
+1. Navigate to the web page (inspect the script for details of the web page) where financial market data are stored for each stock listing on KLSE.
 
 2. Click on each tab from: 0-9, A, B, ..., Z and retrieve all stock listings on each tab.
 
