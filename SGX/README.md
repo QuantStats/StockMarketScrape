@@ -14,7 +14,7 @@ The script can be scheduled to run daily using _Task Scheduler_ in Windows or _C
 
 The automated processes of the script can be briefly summarized as follows:
 
-1. Navigate to the webpage (inspect the script for details of the webpage) where financial market data are stored for each stock listing on SGX.
+1. Navigate to the web page (inspect the script for details of the web page) where financial market data are stored for each stock listing on SGX.
 
 2. Save the stored financial data for each stock. For a sample of the stored financial data, see the file `sgx_prices.csv`. 
 
@@ -31,7 +31,7 @@ For each stock, the following financial data are stored:
 * EPS: earnings per share of the stock in SGD.
 * PE: price-earning-ratio of the stock (unitless measure).
 * Vol: average volume in a year in unit stocks.
-* Cap: market capitalization in MYR, the post-text _M_ and _B_ represent million and billion respectively.
+* Cap: market capitalization in SGD, the post-text _M_ and _B_ represent million and billion respectively.
 
 \* Note that the abbreviation SGD is Singapore dollar. A cent in the context above is a unit of SGD divided by 100.
 
