@@ -1,6 +1,6 @@
 Different from the first example with KLSE (Kuala Lumpur Stock Exchange) is that this scrape involves a two-step process.
 
-The first step is a scrape to collect and store all SGX-listed company names along with their stock codes. The first step is performed by the script 'SGXListings.py'.
+The first step is a scrape to collect and store all SGX-listed company names along with their stock codes. The first step is performed by the script `SGXListings.py`.
 
 The print output after a run of the script is shown as follows,
 
