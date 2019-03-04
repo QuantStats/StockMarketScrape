@@ -35,4 +35,4 @@ For each stock, the following financial data are stored:
 
 The print output after a run of the script is shown below:
 
-![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/StockTable.png)
+![alt text](https://github.com/QuantStats/StockMarketScrape/blob/master/KLSE/KLSEStockScrape.png)
