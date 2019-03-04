@@ -29,7 +29,7 @@ For each stock, the following financial data are stored:
 * Vol: average volume in a year in unit stocks.
 * Cap: market capitalization in MYR, the post-text _m_ and _b_ represent million and billion respectively.
 
-\* Note that the abbreviation MYR is Malaysian Ringgt. A cent in the context above is a unit of MYR divided by 100.
+\* Note that the abbreviation SGD is Singapore dollar. A cent in the context above is a unit of MYR divided by 100.
 
 The print output after a run of the script is shown below:
 
