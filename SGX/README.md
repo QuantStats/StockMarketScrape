@@ -10,7 +10,7 @@ The second step loads the stored data from the first step, then performs the res
 
 A cross-sectional stock market data is gathered and stored after the script in the second step finishes its run. The data is stored in various file formats that can be read by a spreadsheet program. A possible application for an investor is to sort the stock by a variable of interest, say dividend yield to find the highest dividend-yielding stocks.
 
-The script can be scheduled to run daily using _Task Scheduler_ in Windows or _Cron_ in Unix/Linux. With a daily run over time, a time-series stock market data can be obtained.
+The script can be scheduled to run daily using _Task Scheduler_ in Windows or _Cron_ in Unix/Linux. With a daily run over time, a time-series of stock market data can be obtained.
 
 The automated processes of the script can be briefly summarized as follows:
 
